@@ -6,5 +6,4 @@
 - :neckbeard: I’m looking for help to learn all kinds of tech 
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I started as a Car painter
-**saka94/saka94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
